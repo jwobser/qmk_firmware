@@ -3,7 +3,7 @@
     "manufacturer": "www.hfd.cn",
     "maintainer": "hfd",
     "usb": {
-        "vid": "0xFFFE",
+        "vid": "0x494E",
         "pid": "0x0007",
         "device_version": "1.0.0",
         "force_nkro": true

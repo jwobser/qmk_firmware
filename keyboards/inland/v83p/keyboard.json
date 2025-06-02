@@ -5,7 +5,7 @@
     "processor": "WB32FQ95",
     "bootloader": "wb32-dfu",
     "usb": {
-        "vid": "0xFFFE",
+        "vid": "0x494E",
         "pid": "0x001B",
         "device_version": "1.0.3",
         "force_nkro": true,

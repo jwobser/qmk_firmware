@@ -3,7 +3,7 @@
     "manufacturer": "Inland",
     "maintainer": "jonylee@hfd",
     "usb": {
-        "vid": "0xFFFE",
+        "vid": "0x494E",
         "pid": "0x0002",
         "device_version": "0.0.1",
         "force_nkro": true,
